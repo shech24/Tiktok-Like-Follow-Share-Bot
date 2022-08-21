@@ -18,3 +18,4 @@ Run It And Then Type Ur TikTok Video URL And Solve The Captcha And Type 'y' And 
 ChromeDriver: https://chromedriver.chromium.org/downloads
 Download the Version that's the same version as your chrome
 # Preview
+![image](https://user-images.githubusercontent.com/104804625/185775824-d2c94bac-8942-4398-94ee-6439b56dccf0.png)
